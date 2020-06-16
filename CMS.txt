@@ -18,3 +18,13 @@ Un système de gestion de contenu regroupe des logiciels utilisés pour la créa
 A CMS includes softwares used for website creation and animation.
 CMS : les acteurs
 Wordpress, Drupal, Adobe, Joomla. 
+*******
+      plugins
+         **********
+Elementor : pour modifier sur le contenu.
+WPForms Lite : pour creation des forme.
+TranslatePress - Multilingual : pour la traduction manuel	
+Weglot Translate : pour la traduction automatique
+WooCommerce : pour la gestion de store
+Yoast SEO : for Search Engine Optimization .
+GDPR : Règlement Général pour la Protection des Données
